@@ -1,5 +1,7 @@
 # BlogPhoenix
 
+Source: https://www.monterail.com/blog/2015/phoenix-blog
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
